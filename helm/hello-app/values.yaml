@@ -1,0 +1,12 @@
+replicaCount: 2
+
+image:
+  repository: antonyjebinraj/hello-app
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 80
+
+secrets:
+  appSecret: "super-secret-key"
