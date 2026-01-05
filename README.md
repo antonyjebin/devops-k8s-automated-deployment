@@ -1,5 +1,7 @@
 # 🚀 Automated Kubernetes Deployment with CI/CD
 
+▶️Live URL: http://3.7.34.174
+
 ## 📌 Overview
 This project demonstrates an end-to-end **automated DevOps workflow** for deploying a simple “Hello World” web application to a **managed Kubernetes cluster** using modern DevOps best practices.
 
